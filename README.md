@@ -1,2 +1,42 @@
-# LeetCode_Problems
-LeetCode solutions in C++ with clean implementations, pattern-based organization, time &amp; space complexity analysis.
+## LeetCode Solutions
+
+Welcome to my LeetCode solutions repository! This repository contains my solutions to LeetCode problems, solved in **C++**, while preparing for software engineering interviews.
+
+##  Goals
+- Strengthen Data Structures & Algorithms fundamentals.
+- Learn and master problem-solving patterns.
+- Prepare for Product-Based Company interviews.
+- Maintain a consistent coding practice.
+
+##  Repository Structure
+Problems are organized by patterns instead of difficulty for easier revision.
+
+- Arrays
+- HashMap
+- HashSet
+- Sliding Window
+- Two Pointers
+- Prefix Sum
+- Binary Search
+- Stack
+- Queue
+- Greedy
+- Intervals
+- Trees
+- Graphs
+- Dynamic Programming
+- Backtracking
+
+## Each solution includes
+- Problem Number & Name
+- Difficulty
+- Pattern
+- Approach
+- Concepts Learned
+- Time Complexity
+- Space Complexity
+
+## Language
+- C++
+
+ 
