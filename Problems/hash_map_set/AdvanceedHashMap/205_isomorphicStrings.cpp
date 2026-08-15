@@ -32,7 +32,7 @@ Concepts Learned:
 - Detecting conflicting mappings
 
 Time Complexity: O(n)
-Space Complexity: O(1)  // At most 256 possible characters
+Space Complexity: O(1)  
 -------------------------------------------------------
 */
 
